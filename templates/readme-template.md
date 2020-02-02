@@ -3,7 +3,7 @@
 <!-- A one sentence description of the project or assignment -->
 The Good Project Readme Project is a project about about how to make a good Readme so that you can keep your projects well documented and allow yourself and others to build on or learn from your work.
 
-![Logo](https://www.openmoji.org/data/color/svg/1F4D4.svg)
+![Logo](https://github.com/themiscadiz/Assignment1/blob/master/images/html1.png)
 
 <!-- It is good practice to add an about or summary -->
 ## About
